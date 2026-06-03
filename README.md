@@ -21,13 +21,10 @@
   <img src="https://img.shields.io/badge/-ACTIVE_DEVELOPER-8A2BE2?style=for-the-badge" alt="Active Developer" />
 </p>
 
-<!-- YOUTUBE MUSIC WIDGET (AUTO-UPDATE) -->
-
-<!-- Pastikan GitHub Actions untuk YT Music sudah berjalan agar gambar SVG ini muncul -->
-
+<!-- YOUTUBE MUSIC WIDGET (STATIC) -->
 <p align="center">
   <a href="https://music.youtube.com/">
-    <img src="https://raw.githubusercontent.com/MetaArdi/MetaArdi/main/youtube-music.svg" alt="Currently playing on YouTube Music" />
+    <img src="https://img.shields.io/badge/YouTube_Music-Meta_Ardi-121212?style=for-the-badge&logo=youtubemusic&logoColor=FF0000&labelColor=121212" alt="YouTube Music" />
   </a>
 </p>
 
@@ -89,7 +86,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MetaArdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetaArdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MetaArdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top Languages" />
 </div>
 
 <p align="center">

@@ -1,6 +1,6 @@
 <!-- HEADER BANNER: CUSTOM IMAGE DARI ASSETS -->
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Custom Banner" onerror="this.style.display='none'" />
+  <img src="assets/banner-gw.png" width="100%" alt="Custom Banner" onerror="this.style.display='none'" />
 </p>
 
 <!-- HEADER BANNER: ANIMASI DARI VERCEL -->

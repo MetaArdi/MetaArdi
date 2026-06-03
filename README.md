@@ -1,14 +1,19 @@
-<!-- HEADER BANNER -->
+<!-- HEADER BANNER: CUSTOM IMAGE DARI ASSETS -->
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Custom Banner" onerror="this.style.display='none'" />
+</p>
+
+<!-- HEADER BANNER: ANIMASI DARI VERCEL -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Meta%20Ardi&fontSize=80&animation=fadeIn" width="100%" alt="Banner Meta Ardi" />
 </p>
 
-<!-- DYNAMIC TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Architecting+Scalable+Backend+Systems;Deploying+AI+%26+ML+Models+to+Production;Optimizing+Decision+Support+Algorithms;Building+End-to-End+Data+Pipelines" alt="Typing SVG" /></a>
 </p>
 
 <!-- PROFILE BADGES -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MetaArdi&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/MetaArdi?label=FOLLOWERS&style=for-the-badge&color=23272d&logo=github" alt="Followers" />
@@ -17,7 +22,9 @@
 </p>
 
 <!-- YOUTUBE MUSIC WIDGET (AUTO-UPDATE) -->
+
 <!-- Pastikan GitHub Actions untuk YT Music sudah berjalan agar gambar SVG ini muncul -->
+
 <p align="center">
   <a href="https://music.youtube.com/">
     <img src="https://raw.githubusercontent.com/MetaArdi/MetaArdi/main/youtube-music.svg" alt="Currently playing on YouTube Music" />
@@ -42,6 +49,7 @@
 </table>
 
 <!-- CURRENT FOCUS BADGES -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/CURRENT_FOCUS-AI_COMPUTER_VISION-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CURRENT_FOCUS-DECISION_SUPPORT_SYSTEMS-008080?style=for-the-badge" />
@@ -102,6 +110,7 @@
 <h3 align="left">🔬 LATEST BLOG POSTS & HIGHLIGHTS</h3>
 
 <!-- Interactive Accordions -->
+
 <details>
   <summary><b>🤖 AWARE AI Pipeline Architecture</b> <i>(Click to Expand)</i></summary>
   <p>Engineered a production-ready <b>FastAPI</b> backend to orchestrate deep learning models (TensorFlow & MediaPipe). Implemented Git LFS for heavy model weights and containerized the entire pipeline using <b>Docker</b> for seamless Hugging Face Space deployments.</p>
@@ -133,6 +142,7 @@
 </p>
 
 <!-- FOOTER WAVE -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer Wave" />
 
 <p align="center">

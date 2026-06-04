@@ -63,20 +63,24 @@
     <td align="left"><img src="https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,opencv" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Backend Architecture</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=fastapi,flask,laravel,nodejs" /></td>
+    <td align="center"><b>Backend & Systems</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs,nestjs,go" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Database & Storage</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /></td>
+    <td align="center"><b>Frontend & State</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,redux,threejs" /></td>
   </tr>
   <tr>
-    <td align="center"><b>DevOps & Deployment</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=docker,git,linux,vercel,github" /></td>
+    <td align="center"><b>Database & Caching</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend & UI</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,html,css" /></td>
+    <td align="center"><b>DevOps, Cloud & Infra</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,linux" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Testing & Tools</b></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=jest,postman,git,nginx,prometheuss" /></td>
   </tr>
 </table>
 

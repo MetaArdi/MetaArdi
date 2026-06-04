@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td align="center"><b>Backend Architecture</b></td>
-    <td align="left"><img src="https://skillicons.dev/icons?i=fastapi,flask,laravel,codeigniter,nodejs" /></td>
+    <td align="left"><img src="https://skillicons.dev/icons?i=fastapi,flask,laravel,nodejs" /></td>
   </tr>
   <tr>
     <td align="center"><b>Database & Storage</b></td>
